@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1.1">
+ <path style="fill:#f3ae97" d="m8 8h-8l4-4h4"/>
+ <path style="fill:#651c5e" d="m8 8v-8l4 4v4"/>
+ <path style="fill:#e95d2d" d="m4 8v4l4 4v-8"/>
+ <path style="fill:#701f69" d="m8 8h8l-4 4h-4"/>
+ <path style="fill:#3a1036" d="m8 8 4-4v4z"/>
+ <path style="fill:#621b5b" d="m8 8-4 4v-4z"/>
+ <path style="fill:#350e32" d="m12 12-4-4v4z"/>
+ <path style="fill:#ef8c6a" d="m4 4 4 4v-4z"/>
+ <path style="fill:#ffffff" d="m8 6-0.75 1.25-1.25 0.75 1.25 0.75 0.75 1.25 0.75-1.25 1.25-0.75-1.25-0.75z"/>
+ <path style="fill:#fae6e0" d="m6 8 1.25 0.75 0.75 1.25-0-2z"/>
+ <path style="fill:#f9d8cd" d="m10 8-1.25 0.75-0.75 1.25-0-2z"/>
+</svg>
